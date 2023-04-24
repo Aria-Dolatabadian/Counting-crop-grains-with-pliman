@@ -26,3 +26,5 @@ count <-
 
 
 write.csv(measures, file = "seed info.csv", row.names = FALSE)
+
+#See WD
